@@ -1,4 +1,4 @@
-To perform data analysis, I have mentioned 15 questions that we are going to solve one by one. Questions are as follows.
+
 1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Check Datatype of Each Column
